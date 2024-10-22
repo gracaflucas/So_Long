@@ -26,4 +26,4 @@ So_Long is a simple 2D game project where the player (P) must collect all items 
 
 
 ## Game Screenshot
-![Game Screenshot](https://github.com/gracaflucas/So_Long/game.png)
+![Game Screenshot](https://github.com/gracaflucas/So_Long/blob/main/game.png)
