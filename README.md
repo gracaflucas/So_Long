@@ -25,5 +25,5 @@ So_Long is a simple 2D game project where the player (P) must collect all items 
     ```./so_long ./maps/<map_file.ber>```
 
 
-## Game Screenshot
-![Game Screenshot](https://github.com/gracaflucas/So_Long/blob/main/game.png)
+## Game Gif
+![Game Gif](https://github.com/gracaflucas/So_Long/blob/main/game.gif)
