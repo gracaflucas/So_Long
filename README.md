@@ -1,4 +1,4 @@
-# So_Long
+# So_Long (100/100)
 
 So_Long is a simple 2D game project where the player (P) must collect all items (C) in the game map and reach the exit (E). The project uses the MinilibX library for rendering graphics in a window.
 
