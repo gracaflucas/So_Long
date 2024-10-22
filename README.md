@@ -12,6 +12,7 @@ So_Long is a simple 2D game project where the player (P) must collect all items 
     - Unknown characters (not 0, 1, P, E, or C), will also make the map invalid.
     - Maps not enclosed by walls.
     - Maps with empty lines inside them.
+    - Files without ```.ber``` extension.
   - The **floodfill** algorithm checks if the map is winnable; otherwise it's marked as invalid.
   
 ## How It Works
