@@ -22,4 +22,8 @@ So_Long is a simple 2D game project where the player (P) must collect all items 
 1. Compile the program:
     ```make```
 2. Run the game:
-    ```./so_long ./maps/<map_file.ber>``` 
+    ```./so_long ./maps/<map_file.ber>```
+
+
+## Game Screenshot
+![Game Screenshot](https://github.com/gracaflucas/So_Long/game.png)
